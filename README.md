@@ -22,11 +22,6 @@
    - Docker
    - Node.js (You can alternatively use bun, pnpm, etc.)
 <br>
-2. Clone the repository:
-```bash
-git clone [repository_url]
-cd [repository_name]
-```
 
 ## Step 1: Start the Hive Server
 ### Step 1.1: Start Hive Server
