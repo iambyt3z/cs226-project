@@ -38,6 +38,8 @@
    - Feature engineering.
    - Gradient Boosting implementation and optimization.
    - Evaluation metrics: Accuracy, Precision, Recall.
+3. **Integration**
+   - Integration of Dockerized Hive, HDFS, FastAPI, and React.
 
 ---
 
@@ -55,8 +57,6 @@
 ## **Rachit Prajapati**
 1. **Testing and Integration**
    - End-to-end system testing to ensure smooth operation.
-   - Integration of Dockerized Hive, HDFS, FastAPI, and React.
-   - Debugging and performance tuning.
 2. **Usability Testing**
    - Ensuring the frontend is user-friendly and interactive.
    - API testing across multiple companies for response consistency.
