@@ -53,7 +53,7 @@
 ---
 
 ## **Rachit Prajapati**
-1. **Testing and Integration**
+1. **Testing**
    - End-to-end system testing to ensure smooth operation.
 2. **Usability Testing**
    - Ensuring the frontend is user-friendly and interactive.
