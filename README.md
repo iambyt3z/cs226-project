@@ -14,6 +14,56 @@
 
 ---
 
+# **Division of Contributions**
+
+## **Aditya Magarde**
+1. **Hadoop and Hive Setup**
+   - Configuration and deployment using Docker.
+   - Setting up HDFS and Hive tables.
+   - Data ingestion and schema creation.
+2. **Row Store and Column Store Comparison**
+   - Performance testing and analysis.
+   - Evaluation of execution times and storage efficiencies.
+3. **Query Time Evaluation with Different Datanodes**
+   - Benchmarking performance using variable cluster sizes.
+
+---
+
+## **Siddhant Thakare**
+1. **Frontend and Backend Development**
+   - Development of the ReactJS frontend for visualization.
+   - Backend API design with FastAPI.
+   - Integration of machine learning models with the backend.
+2. **Machine Learning Model**
+   - Feature engineering.
+   - Gradient Boosting implementation and optimization.
+   - Evaluation metrics: Accuracy, Precision, Recall.
+
+---
+
+## **Sudhanshu Gulhane**
+1. **Parquet File Conversion and Setup**
+   - Data cleaning and transformation.
+   - Implementation of columnar storage using Parquet.
+   - Creating column-based Hive tables for query optimization.
+2. **Logical Query and API Response Time Optimization**
+   - Improving query structures with Common Table Expressions.
+   - Enhancing API response times through backend optimizations.
+
+---
+
+## **Rachit Prajapati**
+1. **Testing and Integration**
+   - End-to-end system testing to ensure smooth operation.
+   - Integration of Dockerized Hive, HDFS, FastAPI, and React.
+   - Debugging and performance tuning.
+2. **Usability Testing**
+   - Ensuring the frontend is user-friendly and interactive.
+   - API testing across multiple companies for response consistency.
+3. **Documentation**
+   - Quick guide for Hive and HDFS setup.
+   - Finalizing the project report and presentation materials.
+
 # How to Run the Project
 
 ## Prerequisites
