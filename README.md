@@ -38,8 +38,6 @@
    - Feature engineering.
    - Gradient Boosting implementation and optimization.
    - Evaluation metrics: Accuracy, Precision, Recall.
-3. **Integration**
-   - Integration of Dockerized Hive, HDFS, FastAPI, and React.
 
 ---
 
@@ -63,6 +61,8 @@
 3. **Documentation**
    - Quick guide for Hive and HDFS setup.
    - Finalizing the project report and presentation materials.
+4. **Integration**
+   - Integration of Dockerized Hive, HDFS, FastAPI, and React.
 
 # How to Run the Project
 
